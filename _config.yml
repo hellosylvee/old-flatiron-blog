@@ -16,7 +16,7 @@
 title: The Sylvee Code
 email: hellosylvee@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sylvee is a software engineer in training at Flatiron School. Be part of her learning journey by reading her blog entries.
+  Coffee to code since 2017
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hellosylvee

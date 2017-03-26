@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Relating Objects to Real Life"
-date:   2017-03-21 23:05:55 -0400
+date:   2017-03-26 23:15:34 -0400
 categories: object-oriented-ruby
 ---
 ## Objects in Ruby
